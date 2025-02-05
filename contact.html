@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - CRL</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="contact-info">
+            <h1>Get in Touch</h1>
+            <p>Have questions, suggestions, or need more information? Reach out to us using the details below or the contact form.</p>
+
+            <div class="contact-details">
+                <p><strong>Email:</strong> info@crl.org</p>
+                <p><strong>Phone:</strong> +254 700 123 456</p>
+                <p><strong>Address:</strong> CRL Headquarters, Bungoma, Kenya</p>
+            </div>
+        </section>
+
+        <section class="contact-form">
+            <h2>Send Us a Message</h2>
+            <form id="contactForm" action="#" method="POST">
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="name" placeholder="Your Name" required>
+
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" placeholder="your@email.com" required>
+
+                <label for="subject">Subject:</label>
+                <input type="text" id="subject" name="subject" placeholder="Subject of your message" required>
+
+                <label for="message">Your Message:</label>
+                <textarea id="message" name="message" placeholder="Type your message here..." required></textarea>
+
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+
+        <section class="map">
+            <h2>Find Us</h2>
+            <p>Our office is located in Bungoma, Kenya. Visit us anytime during business hours.</p>
+            <div class="map-placeholder">
+                <p>📍 Map will be embedded here</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 CRL. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
