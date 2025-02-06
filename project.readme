@@ -1,0 +1,61 @@
+CRL Website
+
+This project is a simple, static website for the Center for Responsible and Responsive Leadership (CRL). The website is designed using HTML and CSS to provide an elegant and user-friendly interface.
+
+Features
+
+Clean and responsive UI
+
+Well-structured HTML and CSS for easy modifications
+
+Information sections highlighting CRL's mission and objectives
+
+Prerequisites
+
+To run this project locally, you need:
+
+A web browser (Google Chrome, Firefox, Edge, etc.)
+
+A code editor (VS Code, Sublime Text, Notepad++, etc.)
+
+Installation & Setup
+
+Follow these steps to set up the project on your local machine:
+
+Clone the repository
+
+git clone https://github.com/your-username/crl-website.git
+
+Navigate to the project folder
+
+cd crl-website
+
+Open the project in a browser
+
+Option 1: Double-click the index.html file to open it in your default browser.
+
+Option 2: Use a live server extension (such as in VS Code) to run it locally.
+
+Usage
+
+Once the website is opened in a browser, you can navigate through different sections to explore the information about CRL.
+
+Contributing
+
+If you'd like to contribute:
+
+Fork the repository
+
+Create a new branch (git checkout -b feature-branch)
+
+Commit your changes (git commit -m 'Add new feature')
+
+Push to the branch (git push origin feature-branch)
+
+Open a Pull Request
+
+
+
+Author: Lorine Oruko
+Contact: lori.anyango23@gmail.com
+
